@@ -1,0 +1,51 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20250429110311
+Configuration Name: 
+Machine: 00101303182010 (Microsoft Windows NT 10.0.19045.0)
+Host Application: PowerShell -NoProfile -ExecutionPolicy Bypass -Command & 'C:\kasper_copy\kasper_copy.ps1'
+Process ID: 12644
+PSVersion: 5.1.19041.5737
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.5737
+BuildVersion: 10.0.19041.5737
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\kasper_copy\process_log.txt
+2025-04-29 11:03:11 - Share 'Shared' not found.
+2025-04-29 11:03:14 - No modification found. Operation skipped.
+2025-04-29 11:03:14 - Share 'Shared' successfully created.
+2025-04-29 11:03:16 - Task completed successfully.
+**********************
+Windows PowerShell transcript end
+End time: 20250429110316
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20250429110427
+Configuration Name: 
+Machine: 00101303182010 (Microsoft Windows NT 10.0.19045.0)
+Host Application: PowerShell -NoProfile -ExecutionPolicy Bypass -Command & 'C:\kasper_copy\kasper_copy.ps1'
+Process ID: 4208
+PSVersion: 5.1.19041.5737
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.5737
+BuildVersion: 10.0.19041.5737
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\kasper_copy\process_log.txt
+2025-04-29 11:04:27 - Share 'Shared' deleted successfully.
+2025-04-29 11:04:30 - Change detected. Beginning copy process...
+2025-04-29 11:05:12 - Copy completed.
+2025-04-29 11:05:12 - Share 'Shared' successfully created.
+2025-04-29 11:05:14 - Task completed successfully.
+**********************
+Windows PowerShell transcript end
+End time: 20250429110514
+**********************
